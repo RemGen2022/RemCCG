@@ -1,6 +1,6 @@
 # Welcome to RemCCG Homepage!
 
-**RemCCG** is a remanufactured C program generator achieved by the framework *RemGen* proposed in the paper "RemGen: Remanufacturing A Program Generators for Compiler Testing" (Under Review).
+**RemCCG** is a remanufactured C program generator achieved by the framework *RemGen* proposed in the paper "RemGen: Remanufacturing A Program Generator for Compiler Testing" (Under Review).
 
 ----
 ## Notes
